@@ -33,5 +33,5 @@ public class ProductController {
 			
 
 	}
-sc.close()
+sc.close();
 
